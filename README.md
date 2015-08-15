@@ -30,18 +30,12 @@ There are also several in between steps to clean up temporary data variables.
 
 2. Download the source dataset into a "data" folder in your new directory. The contents of your working folder should look something like this:
 
-` .\run_analysis.R
-	
-`.\data\test
-	
-`.\data\train
-	
-`.\data\activity_labels.txt
-	
-`.\data\features.txt
-	
-`.\data\features_info.txt
-	
-`.\data\README.txt
+* .\run_analysis.R
+* .\data\test
+* .\data\train
+* .\data\activity_labels.txt
+* .\data\features.txt
+* .\data\features_info.txt
+* .\data\README.txt
 	
 4. Run the run_analysis.R script
