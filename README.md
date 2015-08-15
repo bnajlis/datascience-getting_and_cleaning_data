@@ -30,7 +30,7 @@ There are also several in between steps to clean up temporary data variables.
 
 2. Download the source dataset into a "data" folder in your new directory. The contents of your working folder should look something like this:
 
-`.\run_analysis.R
+` .\run_analysis.R
 	
 `.\data\test
 	
