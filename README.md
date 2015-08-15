@@ -26,22 +26,22 @@ There are also several in between steps to clean up temporary data variables.
 
 1. Download the run_analysis.R into a new directory, and set the R working directory to this location. You can use:
 
-   setwd("[FOLDER LOCATION"])`
+`setwd("[FOLDER LOCATION"])`
 
 2. Download the source dataset into a "data" folder in your new directory. The contents of your working folder should look something like this:
 
-    `.\run_analysis.R
+`.\run_analysis.R
 	
-	`.\data\test
+`.\data\test
 	
-	`.\data\train
+`.\data\train
 	
-	`.\data\activity_labels.txt
+`.\data\activity_labels.txt
 	
-	`.\data\features.txt
+`.\data\features.txt
 	
-	`.\data\features_info.txt
+`.\data\features_info.txt
 	
-	`.\data\README.txt
+`.\data\README.txt
 	
 4. Run the run_analysis.R script
