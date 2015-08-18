@@ -1,7 +1,7 @@
 ####Tidy data variables:
 
-  *subjectid*: person id observed, (1-30)
-  *activityName*:     activity  names: "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", LAYING" 
+  * subjectid: person id observed, (1-30)
+  * activityName:     activity  names: "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", LAYING" 
   * tBodyAcc-mean...X
   * tBodyAcc-mean...Z
   * tBodyAcc-std...X
